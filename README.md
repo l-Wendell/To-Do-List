@@ -13,5 +13,8 @@
 ### Como utilizar?
 
 + Ao adicionar um valor no input e clicar no botão "Add" você adiciona uma nova tarefa.
-![Input/Button](./img/Button.png)
+
+  ![Input/Button](./img/Button.png)
+  
++ Ao clicar no botão de editar aparecerá um novo campo para você editar sua Task
 
